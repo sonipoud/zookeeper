@@ -120,6 +120,26 @@
     },
     {
       "id": "12"
+    },
+    {
+      "id": "13",
+      "name": "Spindle",
+      "species": "bear",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving"
+      ]
+    },
+    {
+      "name": "jason",
+      "species": "bishon",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "14"
     }
   ]
 }
